@@ -1,0 +1,43 @@
+[
+  "\"Age\", \"43\"",
+  {
+    "organization": "Hephs Cratf_World",
+    "created At": "2023-05-07:05:14:056",
+    "updated At": "2023-06-07:05:14:043",
+    "product": [
+      "developers",
+      "Omobaorun"
+    ],
+    "market Value": "80%",
+    "Address": "2 Ligali Street",
+    "CEO": "Priceless",
+    "countryState": "Nigeria",
+    "ids": 2,
+    "noOfEmployee": 30,
+    "employee": [
+      "Olaoluwa",
+      "Semilore"
+    ]
+  },
+  {
+    "organization": "OlaOre Beauty World",
+    "createdAt": "2023-05-07:05:14:047",
+    "updatedAt": "2023-06-07:05:14:047",
+    "products": [
+      "developers",
+      "Mentor"
+    ],
+    "marketValue": "90%",
+    "address": "Oja Oba Ketu",
+    "ceo": "Mentor Tee",
+    "country": "Nigeria",
+    "id": 2,
+    "noOfEmployees": 50,
+    "employees": [
+      "Lizzy",
+      "Dan"
+    ]
+  },
+  "mentor",
+  "\"Nam\"e:\"ImoleAyomi Otenaike\",\"Age\":\"2years+\", "
+]
